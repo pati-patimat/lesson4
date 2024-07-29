@@ -1,4 +1,4 @@
-my_string = input('ВВедите текст: ', )
+my_string = input('Введите текст: ', )
 print(my_string)
 print(my_string.upper())
 print(my_string.lower())
